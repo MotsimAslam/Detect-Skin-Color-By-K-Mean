@@ -1,1 +1,2 @@
-# Detect-Skin-Color-By-K-Mean
+Skincolor
+Skin Color with YcrCb and K-Means
